@@ -1,0 +1,27 @@
+  @import url("https://use.typekit.net/hsa8rpv.css");
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h1 {
+  font-family: roc-grotesk, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 10rem;
+}
+
+h2 {
+  margin-top: -9rem;
+  font-family: roc-grotesk, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+input {
+  padding: 3px;
+  color: gray;
+}
