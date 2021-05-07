@@ -33,13 +33,6 @@ body {
   width: 60vw;
 }
 
-h1 {
-  font-family: Helvetica, sans-serif;
-  font-weight: 300;
-  font-style: normal;
-  font-size: 10rem;
-}
-
 input {
   margin: 3px;
   padding: 8px;
@@ -275,7 +268,7 @@ button:hover {
   z-index: 10;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 700px) {
 
   input {
     width: 50vw;
