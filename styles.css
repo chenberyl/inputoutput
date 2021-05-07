@@ -286,4 +286,7 @@ button:hover {
     margin-left: -19vw;
   }
 
-}
+  .header {
+    margin-top: 3vh;
+    width:90vw;
+  }
